@@ -1139,7 +1139,11 @@
 @media only screen and (max-width: 480px){
 
 
-  /*  */
+  /* new style 6/19/2025  */
+  .services-box .info h4{
+    margin-bottom: -5px;
+  }
+
   .inc-technology {
     padding-top: 0px;
   }
