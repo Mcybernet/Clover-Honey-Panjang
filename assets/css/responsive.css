@@ -1138,6 +1138,16 @@
 /* Custom layout. */
 @media only screen and (max-width: 480px){
 
+
+  /*  */
+  .inc-technology {
+    padding-top: 0px;
+  }
+  .container-full{
+    height: auto;
+  }
+  /*  */
+
   .banner-area .bottom {
     display: block;
     align-items: center;
